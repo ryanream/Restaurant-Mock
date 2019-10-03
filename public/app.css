@@ -36,16 +36,14 @@
 .centeredLink{
     display: block;
     color: black;
-    margin-top: 25px;
-    margin-bottom: 25px;
     font-size: 45px;
 }
 
-@media screen and (max-width: 600px){
-    .homeContent {
-        font-size: 48px;
-    }
-    .centeredLink {
-        font-size: 36px;
-    }
-}
+/*@media screen and (max-width: 600px){*/
+/*    .homeContent {*/
+/*        font-size: 48px;*/
+/*    }*/
+/*    .centeredLink {*/
+/*        font-size: 36px;*/
+/*    }*/
+/*}*/
