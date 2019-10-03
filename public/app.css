@@ -36,7 +36,8 @@
 .centeredLink{
     display: block;
     color: black;
-    margin: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     font-size: 45px;
 }
 
