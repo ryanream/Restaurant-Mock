@@ -27,8 +27,6 @@
     /*font-family: 'Bangers', cursive;*/
     font-size: 60px;
     white-space: nowrap;
-    /*max-width: 90%;*/
-    
 }
 
 /* **TEXT** Links to Map and Menus*/
@@ -44,6 +42,6 @@
         font-size: 48px;
     }
     .centeredLink {
-        font-size: 22px;
+        font-size: 36px;
     }
 }
