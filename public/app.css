@@ -27,7 +27,7 @@
     /*font-family: 'Bangers', cursive;*/
     font-size: 60px;
     white-space: nowrap;
-    overflow: hidden;
+    /*max-width: 90%;*/
 }
 
 /* **TEXT** Links to Map and Menus*/
@@ -38,3 +38,8 @@
     font-size: 45px;
 }
 
+@media screen and (max-width:720px){
+    h1 {
+        font-size: 90%;
+    }
+}
