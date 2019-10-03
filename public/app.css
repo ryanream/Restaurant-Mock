@@ -1,0 +1,40 @@
+/*text centering*/
+
+/*image centering*/
+
+/* **PNG IMAGE** Only Nozaru ramen logo*/
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250;
+    width: 250px;
+    border-radius: 10px 100px / 12px;
+    -webkit-box-shadow: 0px 0px 17px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 17px 0px rgba(0,0,0,1);
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,1);
+}
+
+/*** JPG IMAGE** Only menus*/
+#menu{
+    width: 80%;
+}
+
+/***TEXT** Div containing two links (map and menu)*/
+.homeContent{
+    text-align: center;
+    margin-top: 2%;
+    /*font-family: 'Poller One', cursive;*/
+    font-family: 'Limelight', cursive;
+    /*font-family: 'Bangers', cursive;*/
+    font-size: 60px;
+}
+
+/* **TEXT** Links to Map and Menus*/
+.centeredLink{
+    display: block;
+    color: black;
+    margin: 25px;
+    font-size: 45px;
+}
+
