@@ -1,6 +1,4 @@
-/*text centering*/
-
-/*image centering*/
+/*SoCal Sushi app.css*/
 
 /* **PNG IMAGE** Only Nozaru ramen logo*/
 #logo{
@@ -15,12 +13,12 @@
     box-shadow: 0px 0px 17px 0px rgba(0,0,0,1);
 }
 
-/*** JPG IMAGE** Only menus*/
+/* **JPG IMAGE** Only menus*/
 #menu{
     width: 80%;
 }
 
-/***TEXT** Div containing two links (map and menu)*/
+/* **TEXT** Div containing two links (map and menu)*/
 .homeContent{
     text-align: center;
     margin-top: 2%;

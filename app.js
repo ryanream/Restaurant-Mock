@@ -1,3 +1,5 @@
+// SoCal Sushi app.js
+
 var express = require("express"),
     app     = express();
 
