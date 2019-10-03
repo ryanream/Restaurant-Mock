@@ -34,16 +34,17 @@
 
 /* **TEXT** Links to Map and Menus*/
 .centeredLink{
+    margin-top: 25px;
     display: block;
     color: black;
     font-size: 45px;
 }
 
-/*@media screen and (max-width: 600px){*/
-/*    .homeContent {*/
-/*        font-size: 48px;*/
-/*    }*/
-/*    .centeredLink {*/
-/*        font-size: 36px;*/
-/*    }*/
-/*}*/
+@media screen and (max-width: 600px){
+    .homeContent {
+        font-size: 48px;
+    }
+    .centeredLink {
+        font-size: 36px;
+    }
+}
